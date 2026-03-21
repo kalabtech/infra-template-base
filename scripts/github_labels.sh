@@ -1,9 +1,9 @@
 #!/usr/bin/env zsh
 set -euo pipefail
 
-GITHUB_USER="tzunxian"
+GITHUB_USER="kalabtech"
 REPOS=(
-  "infra-core"
+  "infra-template-base"
 )
 
 declare -A LABEL_COLORS=(
