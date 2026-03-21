@@ -1,0 +1,5 @@
+_min_copier_version: "9.0"
+
+github_username:
+  type: str
+  help: "GitHub username for CODEOWNERS, docker container, script labels and License"
