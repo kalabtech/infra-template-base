@@ -1,0 +1,12 @@
+project_name:
+  type: str
+  help: "Project name"
+
+aws_region:
+  type: str
+  help: "AWS region"
+  default: "eu-west-1"
+
+github_username:
+  type: str
+  help: "GitHub username for CODEOWNERS"

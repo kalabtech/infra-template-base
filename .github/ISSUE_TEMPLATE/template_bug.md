@@ -3,7 +3,7 @@ name: template_bug
 about: Document a technical error to find and implement a solution.
 title: "[BUG]: Action"
 labels: bug
-assignees: kalabtech
+assignees: {{ github_username }}
 
 ---
 
