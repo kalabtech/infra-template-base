@@ -1,5 +1,5 @@
 {
-    "name": "infra-template-base",
+    "name": "{{ project_name }}",
     "build": { "dockerfile": "Dockerfile" },
     //Added to avoid architecture conflicts if using emulation
     "runArgs": ["--platform", "linux/arm64"],

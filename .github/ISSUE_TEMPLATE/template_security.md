@@ -3,7 +3,7 @@ name: template_security
 about: Security Review / Hardening
 title: "[SECURITY]: Action"
 labels: security
-assignees: kalabtech
+assignees: {{ github_username }}
 
 ---
 

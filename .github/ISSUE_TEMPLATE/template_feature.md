@@ -3,7 +3,7 @@ name: template_feature
 about: Standard template for creating infrastructure using Terraform.
 title: "[SERVICIO]: Action"
 labels: documentation, enhancement
-assignees: kalabtech
+assignees: {{ github_username }}
 
 ---
 
