@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.3](https://github.com/kalabtech/infra-template-base/compare/v1.0.2...v1.0.3) (2026-03-23)
+
+
+### Bug Fixes
+
+* **ci:** rename render copier files .jinja ([bd58a37](https://github.com/kalabtech/infra-template-base/commit/bd58a378f35ee0ffb2bdd6884e9d586a567e263e))
+
 ## [1.0.2](https://github.com/kalabtech/infra-template-base/compare/v1.0.1...v1.0.2) (2026-03-23)
 
 
