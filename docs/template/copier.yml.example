@@ -10,3 +10,9 @@ aws_region:
 github_username:
   type: str
   help: "GitHub username for CODEOWNERS"
+
+_exclude:
+  - release-please-config.json
+  - .release-please-manifest.json
+  - version.txt
+  - CHANGELOG.md
