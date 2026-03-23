@@ -1,3 +1,6 @@
+_min_copier_version: "9.0"
+_templates_suffix: ""
+
 project_name:
   type: str
   help: "Project name"
@@ -16,3 +19,4 @@ _exclude:
   - .release-please-manifest.json
   - version.txt
   - CHANGELOG.md
+  - .git
