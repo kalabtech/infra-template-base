@@ -9,8 +9,8 @@ jobs:
     name: Check Source Branch
     runs-on: ubuntu-latest
     steps:
-      - name: Block if not from dev
-        if: github.head_ref != 'dev' && !startsWith(github.head_ref, 'release-please--')
+      - name: Block if not from allowed branches
+        if: github.head_ref != 'dev'
         run: |
-          echo "PRs to main must be from dev"
+          echo "PRs to main must be from allowed branches"
           exit 1
