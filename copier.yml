@@ -9,3 +9,4 @@ _exclude:
   - .release-please-manifest.json
   - version.txt
   - CHANGELOG.md
+  - .git
