@@ -5,8 +5,6 @@ github_username:
   help: "GitHub username for CODEOWNERS, docker container, script labels and License"
 
 _exclude:
-  - release-please-config.json
-  - .release-please-manifest.json
   - version.txt
   - CHANGELOG.md
   - .git
