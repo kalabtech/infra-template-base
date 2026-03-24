@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.4](https://github.com/kalabtech/infra-template-base/compare/v1.0.3...v1.0.4) (2026-03-24)
+
+
+### Bug Fixes
+
+* **copier:** add answers file to update ([fa54a11](https://github.com/kalabtech/infra-template-base/commit/fa54a11fd21ccfada2284f2bb9e334688075c481))
+
 ## [1.0.3](https://github.com/kalabtech/infra-template-base/compare/v1.0.2...v1.0.3) (2026-03-23)
 
 
