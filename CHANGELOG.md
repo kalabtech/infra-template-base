@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.0.5](https://github.com/kalabtech/infra-template-base/compare/v1.0.4...v1.0.5) (2026-03-25)
+
+
+### Bug Fixes
+
+* **gitignore:** add local modules terraform.lock.hcl ([594856f](https://github.com/kalabtech/infra-template-base/commit/594856fa8953104d00eb7302edd2b51ccfb522ae))
+* **pre-commit:** wire .tflint.hcl file to hook ([c93c25c](https://github.com/kalabtech/infra-template-base/commit/c93c25c4a3060ed755f63d06b30b338e24b11cf0))
+* **tooling:** tflint pre-commit hook and add modules lock.hcl to gitignore ([1bf10ec](https://github.com/kalabtech/infra-template-base/commit/1bf10ec3f75c1e191d7702fa1b06c92d02136816))
+
 ## [1.0.4](https://github.com/kalabtech/infra-template-base/compare/v1.0.3...v1.0.4) (2026-03-24)
 
 
