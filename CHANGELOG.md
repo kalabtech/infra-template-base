@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.6](https://github.com/kalabtech/infra-template-base/compare/v1.0.5...v1.0.6) (2026-03-27)
+
+
+### Bug Fixes
+
+* **script:** remove labels script now managed by github management repo ([09dd308](https://github.com/kalabtech/infra-template-base/commit/09dd30878b1604e874e0f16e4143baec73b39ea3))
+
 ## [1.0.5](https://github.com/kalabtech/infra-template-base/compare/v1.0.4...v1.0.5) (2026-03-25)
 
 
