@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/kalabtech/infra-template-base/compare/v1.0.6...v1.1.0) (2026-03-27)
+
+
+### Features
+
+* **template:** add github_labels script and update copier.yml.example ([755e02b](https://github.com/kalabtech/infra-template-base/commit/755e02b74235dac3d08b3e7031723adec4b9e018))
+
 ## [1.0.6](https://github.com/kalabtech/infra-template-base/compare/v1.0.5...v1.0.6) (2026-03-27)
 
 
