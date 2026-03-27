@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.2](https://github.com/kalabtech/infra-template-base/compare/v1.1.1...v1.1.2) (2026-03-27)
+
+
+### Bug Fixes
+
+* **copier:** revert {{ _copier_conf.answers_file }}.jinja.example ([38bb794](https://github.com/kalabtech/infra-template-base/commit/38bb794838c6a9d996ff7e81100c509376f2fcde))
+
 ## [1.1.1](https://github.com/kalabtech/infra-template-base/compare/v1.1.0...v1.1.1) (2026-03-27)
 
 
