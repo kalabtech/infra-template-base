@@ -1,5 +1,5 @@
 _min_copier_version: "9.0"
-_templates_suffix: ""
+_templates_suffix: ".jinja"
 
 project_name:
   type: str
@@ -12,11 +12,15 @@ aws_region:
 
 github_username:
   type: str
-  help: "GitHub username for CODEOWNERS"
+  help: "GitHub username for CODEOWNERS, docker container, script labels and License"
 
 _exclude:
   - release-please-config.json
   - .release-please-manifest.json
   - version.txt
   - CHANGELOG.md
+  - .copier-answers.yml.example
   - .git
+  - prod.hcl
+  - docs
+  - github_labels.sh
