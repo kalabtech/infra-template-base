@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.3](https://github.com/kalabtech/infra-template-base/compare/v1.1.2...v1.1.3) (2026-03-30)
+
+
+### Bug Fixes
+
+* **ci:** add github token to increase api calls ([f1561d7](https://github.com/kalabtech/infra-template-base/commit/f1561d75baf76d7a55fd57b5502d753bd050dca6))
+* **ci:** release-please simple no need manifest and config ([37c8181](https://github.com/kalabtech/infra-template-base/commit/37c818189977ad0e4798a5c2c584efe092a494fc))
+
 ## [1.1.2](https://github.com/kalabtech/infra-template-base/compare/v1.1.1...v1.1.2) (2026-03-27)
 
 
